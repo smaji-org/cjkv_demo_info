@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 -144 1024 1024">
+  <g transform="matrix(1 0 0 -1 0 880)">
+   <path fill="currentColor"
+d="M77 112h403v307h-328v21h328v156h-199v22h344l54 54l64 -54v-22h-199v-156h210l54 54l64 -54v-21h-328v-307h285l54 54l64 -54v-21h-870v21zM791 330l10 -17l-22 -1l-28 -43l-30 -41l-34 -40l-18 -19l-40 -38l-8 6l62 116l32 64l18 42l3 6zM301 212l-6 18l-7 17l-17 36
+l-11 18l-24 38l-14 19l7 7l38 -28l18 -15l16 -17l15 -16l13 -17l13 -18l11 -19l10 -19l8 -20l-3 -24l-18 -15l-25 2l-16 19l-3 17zM824 609l-46 31l-46 34l-43 38l-42 40l-40 44l-39 47l-35 50l-11 18l-56 -77l-45 -52l-48 -49l-50 -45l-52 -42l-55 -38l-58 -35l-60 -30
+l-63 -26l-4 9l57 35l55 37l52 39l50 41l48 44l44 46l43 49l40 52l37 55l35 58l3 5l52 -38l9 -17h-20l-4 -6l61 -62l42 -41l43 -38l43 -34l44 -33l45 -28l46 -26l47 -23l81 -34l-61 -52l-50 26z" />
+  </g>
+
+</svg>
